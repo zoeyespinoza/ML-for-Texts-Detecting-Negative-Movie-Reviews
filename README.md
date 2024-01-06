@@ -14,6 +14,12 @@ review: the review text
 pos: the target, '0' for negative and '1' for positive
 ds_part: 'train'/'test' for the train/test part of dataset, correspondingly.
 
+## Graphs
+
+Upper Plot - Number of Movies Over Years: This bar chart illustrates the number of movies released each year. The vertical bars increase in height towards more recent years, indicating a growth in the number of movies produced as time progresses. This trend suggests a significant expansion of the film industry or an increase in the documentation of films in recent decades.
+
+Lower Plot - Number of Reviews Over Years: The bar chart shows the actual count of reviews per year, with each bar indicating the volume of reviews that movies from that year received. The line chart, which scales on the right y-axis, indicates the average number of reviews per movie, averaged over a 5-year period. This line chart shows an overall upward trend, suggesting that, on average, movies are receiving more reviews over time, which could be due to various factors such as the increased accessibility of review platforms or greater viewer engagement.
+
 ## Conclusion
 
 **Performance against Baseline (Model 0):** Model 4, like the other models, is significantly better than the baseline Model 0 in every aspect. It demonstrates the value of complex models over a simple constant baseline.
