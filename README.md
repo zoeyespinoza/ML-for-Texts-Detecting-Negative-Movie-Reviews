@@ -17,7 +17,8 @@ ds_part: 'train'/'test' for the train/test part of dataset, correspondingly.
 ## Graphs
 ![Image1](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/movies_reviews_years.png)
 Exploring the number of movies and reviews over years.
-![Image2](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/bar_kde.png
+
+![Image2](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/bar_kde.png)
 Checking the distribution of number of reviews per movie with exact counting and KDE, to understand how it may differ from the exact counting.
 
 ![IMAGE](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/polarities.png)
