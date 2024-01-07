@@ -15,6 +15,11 @@ pos: the target, '0' for negative and '1' for positive
 ds_part: 'train'/'test' for the train/test part of dataset, correspondingly.
 
 ## Graphs
+![Image1](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/movies_reviews_years.png)
+Exploring the number of movies and reviews over years.
+
+Checking the distribution of number of reviews per movie with exact counting and KDE, to understand how it may differ from the exact counting.
+
 ![IMAGE](https://github.com/zoeyvero/ML-for-Texts-Film-Sentiment-Analysis/blob/main/img/polarities.png)
 Upper Plot - Number of Movies Over Years: This bar chart illustrates the number of movies released each year. The vertical bars increase in height towards more recent years, indicating a growth in the number of movies produced as time progresses. This trend suggests a significant expansion of the film industry or an increase in the documentation of films in recent decades.
 
