@@ -1,4 +1,5 @@
-# ML-for-Texts-Film-Sentiment-Analysis
+# ML-for-Texts-Detecting Negative Movie Reviews -Sentiment-Analysis
+
 ## Sentiment Analysis in Classic Movie Reviews: Building a Predictive Model for The Film Union
 
 An online film forum is developing a system for filtering and categorizing movie reviews. The project task was to build a model for classifying positive and negative reviews using the dataset of IMDB movie reviews.
