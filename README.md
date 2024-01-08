@@ -1,6 +1,13 @@
 # ML-for-Texts-Film-Sentiment-Analysis
 ## Sentiment Analysis in Classic Movie Reviews: Building a Predictive Model for The Film Union
 
+An online film forum is developing a system for filtering and categorizing movie reviews. The project task was to build a model for classifying positive and negative reviews using the dataset of IMDB movie reviews.
+
+Built different machine learning models to detect negative reviews, which was used to create a system for categorizing movie reviews.
+
+The techniques used in this project included normalization of reviews without digits or punctuation; lemmatization using NLTK and spaCy; creation of features using TF-IDF; and testing of various classification algorithms, including Logistic Regression, and LGBMClassifier.
+The selected model was a Logistic Regression that achieved an accuracy score of 0.88, ROC-AUC score of 0.95, and F1 score of 0.88 with testing data.
+
 ## Project Description
 The Film Now Union, a new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews. You'll be using a dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. It will need to have an F1 score of at least 0.85.
 
